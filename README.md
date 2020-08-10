@@ -1,2 +1,2 @@
 # kivy
-I lern about Kivy and KivyMD
+I learn about Kivy and KivyMD
